@@ -123,3 +123,11 @@ main {
     height: 275px;
 
 }
+
+.pie{
+    position: absolute;
+    bottom: 0%;
+    color: #495057;
+    font-weight: bold;
+    font-size: 13px;
+}

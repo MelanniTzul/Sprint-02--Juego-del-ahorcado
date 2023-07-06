@@ -91,3 +91,11 @@ p {
 .cancelar:hover{
     background: #efe6e6;
 }
+
+.pie{
+    position: absolute;
+    bottom: 0%;
+    color: #495057;
+    font-weight: bold;
+    font-size: 13px;
+}
